@@ -12,7 +12,6 @@ setup(
    description='A package for managing the LLC queue',
    long_description=open('README.md').read(),
    install_requires=[
-       "Django >= 1.1.1",
        "pytest",
    ],
 )
